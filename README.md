@@ -23,7 +23,7 @@ O dashboard deve incluir as seguintes métricas:
 - **Comparativo Temporal**: Possibilidade de comparar métricas entre diferentes períodos.
 - **Alertas e Indicadores**: Destaque de métricas que estejam fora do esperado (ex.: margens abaixo do objetivo).
 
-### 3. **Tecnologias Sugeridas**
+### 3. **Tecnologias Aplicadas**
 - **Ferramentas de BI**: Power BI.
 - **Linguagens de Programação**: DAX - Data Analysis Expressions.
 - **Banco de Dados**: Excel contendo a base de dados da controladoria financeira da XP-Bucks.
